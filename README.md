@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve Osano
 - 👀 I’m interested in Data Analysis & Business Intelligence
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on BI Projects
 - 📫 How to reach me osanosteve98@gmail.com
 
