@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis & Business Intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on BI Projects
-- 📫 How to reach me osanosteve98@gmail.com
+- 📫 How to reach me steveriany@gmail.com
 
 <!---
 OsanoSteve/OsanoSteve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
